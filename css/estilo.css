@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  text-align: center;
+  background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%); }
+
+.anchoFooter {
+  margin-top: 30px;
+  background-color: white;
+  text-align: center; }
+
+.bi-facebook, .bi-whatsapp, .bi-instagram {
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: black; }
+  .bi-facebook:hover, .bi-whatsapp:hover, .bi-instagram:hover {
+    color: blue; }
+
+.bi-whatsapp:hover {
+  color: green; }
+
+.bi-instagram:hover {
+  color: red; }
+
+.encabezado {
+  color: black;
+  font-weight: bold;
+  background-color: #d669b2; }
+
+.container {
+  font-family: Arial, Helvetica, sans-serif; }
+  .container .h1 {
+    font-weight: bold;
+    color: black; }
+  .container .p {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive; }
